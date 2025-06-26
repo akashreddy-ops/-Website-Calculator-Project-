@@ -21,3 +21,28 @@ Whenever the calculated result is 2025, the calculator displays "Happy New Year 
 🔹 Users who enjoy cool Easter eggs in apps!
 
 🔗 Check out the repository here: [website-calculator-project.vercel.app]
+
+
+🎨 Technologies Used
+HTML5
+CSS3
+JavaScript (Vanilla)
+
+
+📁 File Structure
+📁 surprise-new-year-calculator
+├── index.html      
+├── flower.png
+
+
+
+💡 Example Surprise Trigger
+if (result === 2025) {
+  alert("🎉 Happy New Year 2025! 🎉");
+}
+
+✨ Author
+Made with 💻 and 🎇 by [Danapana Akash Reddy].
+
+        
+
