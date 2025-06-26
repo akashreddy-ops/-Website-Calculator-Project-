@@ -20,4 +20,4 @@ Whenever the calculated result is 2025, the calculator displays "Happy New Year 
 🔹 Developers learning JavaScript and DOM manipulation.
 🔹 Users who enjoy cool Easter eggs in apps!
 
-🔗 Check out the repository here: [website-calculator-project.vercel.app].
+🔗 Check out the repository here: [website-calculator-project.vercel.app]
